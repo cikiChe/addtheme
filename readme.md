@@ -8,11 +8,12 @@
 
 ## 快速使用
 
-![typecho](C:\Users\cc\Desktop\typecho.gif)
+![typecho](https://github.com/cikiChe/addtheme/blob/6f4648be0b68854aa52101e9fed1cf1ae06f367c/typecho.gif?raw=true)
 
 
 
 本插件 github 地址 ：https://github.com/cikiChe/addtheme
+
 详细地址：https://blog.2pp.link/index.php/archives/166/
 
 
